@@ -1,0 +1,4 @@
+Dockerfile
+*.img
+backups/
+backups/output
