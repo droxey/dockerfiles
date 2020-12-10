@@ -2,6 +2,7 @@
 
 [![MicroBadger Docker Image](https://images.microbadger.com/badges/image/droxey/getstars.svg)](https://microbadger.com/images/droxey/getstars)
 [![MicroBadger Docker Version](https://images.microbadger.com/badges/version/droxey/getstars.svg)](https://microbadger.com/images/droxey/getstars)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/droxey/getstars)
 
 
 ```bash
